@@ -1,0 +1,24 @@
+{
+  "name": "awesome-claude-code-cn",
+  "version": "1.0.0",
+  "description": "Awesome Claude Code 中文指南 - 精选技能、工具、插件和资源列表",
+  "keywords": [
+    "claude-code",
+    "awesome",
+    "chinese",
+    "ai-tools",
+    "developer-tools",
+    "skills",
+    "workflows"
+  ],
+  "author": "toyball <toyball860721@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toyball860721/awesome-claude-code-cn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toyball860721/awesome-claude-code-cn/issues"
+  },
+  "homepage": "https://github.com/toyball860721/awesome-claude-code-cn#readme"
+}
